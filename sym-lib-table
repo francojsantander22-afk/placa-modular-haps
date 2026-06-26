@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "RASPBERRY_PI_ZERO_2_W") (type "KiCad") (uri "${GY_63}/Libreria/RASPBERRY_PI_ZERO_2_W.kicad_sym") (options "") (descr ""))
+	(lib (name "MT3608_DC-DC_STEP_UP_CONVERTER_2A_BOOSTER_MODULE") (type "KiCad") (uri "${GY_63}/Libreria/MT3608_DC-DC_STEP_UP_CONVERTER_2A_BOOSTER_MODULE.kicad_sym") (options "") (descr ""))
+)

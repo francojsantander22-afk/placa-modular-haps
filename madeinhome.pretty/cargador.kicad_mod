@@ -1,0 +1,192 @@
+(footprint "cargador"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9a80f0e0-f5a0-48b9-9024-92f1c3a489e0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Cargador_Adafruit"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1d7f3e66-4bc9-4b5d-bf3d-8c9490b759c0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1333762e-b390-4b1f-bc88-5e8330fe3d74")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a64494b7-2ab9-4ac5-bb29-47deb1d1076f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -2.54 -7.62)
+		(end 27.94 30.48)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "5c94119a-b729-4340-b075-8192022412ae")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a77c4359-3e8d-4d34-bdad-28e0e1874f92")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5183355e-2776-44c4-95f1-faedcdf7ae09")
+	)
+	(pad "2" thru_hole circle
+		(at 0 2.54)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d83318e3-24e8-4736-bf10-e20feff074fb")
+	)
+	(pad "3" thru_hole circle
+		(at 0 5.08)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f99fdb98-5a28-4823-b448-b5ad8509e784")
+	)
+	(pad "4" thru_hole circle
+		(at 0 7.62)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "23b34c4a-988e-4913-8033-62c87ddfd23b")
+	)
+	(pad "5" thru_hole circle
+		(at 0 10.16)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a1a257e2-2999-4574-a43d-6826a3b20852")
+	)
+	(pad "6" thru_hole circle
+		(at 0 12.7)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5f3043c3-b376-4ab1-9888-91de22b41ca1")
+	)
+	(pad "7" thru_hole circle
+		(at 0 15.24)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d25b3798-a5c9-44e5-bc64-cb3da9ec8bde")
+	)
+	(pad "8" thru_hole circle
+		(at 0 17.78)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cc66cc58-bab8-4b51-9b11-f711d4f2326d")
+	)
+	(pad "9" thru_hole circle
+		(at 0 20.32)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "aad55d41-8777-49ac-9857-e1d1290fb5ae")
+	)
+	(pad "10" thru_hole circle
+		(at 0 22.86)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8d6adb61-0500-4143-8be9-978995b39c35")
+	)
+	(pad "11" thru_hole circle
+		(at 0 25.4)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c145e554-f87d-4f10-8448-4f4fc7ed9742")
+	)
+	(embedded_fonts no)
+	(model "${GY_63}/Adafruit_BQ24074_V5.step"
+		(offset
+			(xyz -2.5 6.3 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+	(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x11_P2.54mm_Vertical.step"
+		(offset
+			(xyz 0 -25.5 4)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -180 -0 -0)
+		)
+	)
+)
