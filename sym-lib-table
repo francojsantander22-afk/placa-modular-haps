@@ -2,4 +2,6 @@
 	(version 7)
 	(lib (name "RASPBERRY_PI_ZERO_2_W") (type "KiCad") (uri "${GY_63}/Libreria/RASPBERRY_PI_ZERO_2_W.kicad_sym") (options "") (descr ""))
 	(lib (name "MT3608_DC-DC_STEP_UP_CONVERTER_2A_BOOSTER_MODULE") (type "KiCad") (uri "${GY_63}/Libreria/MT3608_DC-DC_STEP_UP_CONVERTER_2A_BOOSTER_MODULE.kicad_sym") (options "") (descr ""))
+	(lib (name "MCP1702-3302E_TO") (type "KiCad") (uri "${GY_63}/Libreria/MCP1702-3302E_TO.kicad_sym") (options "") (descr ""))
+	(lib (name "DS18B20") (type "KiCad") (uri "${GY_63}/Libreria/DS18B20.kicad_sym") (options "") (descr ""))
 )
