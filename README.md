@@ -78,7 +78,7 @@ El diseño se realizó en **KiCad**, de forma modular (para poder acoplar direct
 
 | Top Layer | Bottom Layer | Top + Bottom |
 |:---:|:---:|:---:|
-| ![Top Layer](Imagenes/toplayer.png) | ![Bottom Layer](Imagenes/bottom_layer.png) | ![Top Bottom Layer](Imagenes/top_bottom_layer.png) |
+| ![Top Layer](Imagenes/top_layer.png) | ![Bottom Layer](Imagenes/bottom_layer.png) | ![Top Bottom Layer](Imagenes/top_bottom_layer.png) |
 
 ### Modelado 3D
 
