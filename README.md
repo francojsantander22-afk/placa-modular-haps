@@ -78,13 +78,13 @@ El diseño se realizó en **KiCad**, de forma modular (para poder acoplar direct
 
 | Top Layer | Bottom Layer | Top + Bottom |
 |:---:|:---:|:---:|
-| ![Top Layer](Imagenes/top%20layer.png) | ![Bottom Layer](Imagenes/bottom_layer.png) | ![Top Bottom Layer](Imagenes/top_bottom_layer.png) |
+| ![Top Layer](Imagenes/toplayer.png) | ![Bottom Layer](Imagenes/bottom_layer.png) | ![Top Bottom Layer](Imagenes/top_bottom_layer.png) |
 
 ### Modelado 3D
 
 | Vista frontal | Vista trasera |
 |:---:|:---:|
-| ![Modelado 3D vista frontal](Imagenes/modelado3d_z_front.png) | ![Modelado 3D vista trasera](Imagenes/modelado3d_z_back.png) |
+| ![Modelado 3D vista frontal](Imagenes/modelado_3d_z_front.png) | ![Modelado 3D vista trasera](Imagenes/modelado_3d_z_back.png) |
 
 ### Archivos del repositorio
 
