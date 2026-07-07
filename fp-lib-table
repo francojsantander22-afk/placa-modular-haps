@@ -3,4 +3,5 @@
 	(lib (name "madeinhome") (type "KiCad") (uri "${KIPRJMOD}/madeinhome.pretty") (options "") (descr ""))
 	(lib (name "raspberry") (type "KiCad") (uri "${GY_63}/Libreria/raspberry.pretty") (options "") (descr ""))
 	(lib (name "booster") (type "KiCad") (uri "${GY_63}/Libreria/booster.pretty") (options "") (descr ""))
+	(lib (name "pines") (type "KiCad") (uri "C:/Users/franc/Documents/KiCad/10.0/symbols/Shuttle Board_KG200Z/Shuttle Board_kg200z/pines.pretty") (options "") (descr ""))
 )
